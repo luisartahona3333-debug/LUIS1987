@@ -1,0 +1,7 @@
+{
+  "name": "EDITORI-APP",
+  "description": "Una plataforma avanzada impulsada por IA para dar vida a personajes estáticos mediante narrativas, dialectos regionales colombianos y generación de video cinemático.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
